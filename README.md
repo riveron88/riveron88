@@ -15,14 +15,14 @@ AWS Cloud Support Engineer focused on Linux infrastructure, hybrid cloud environ
 ### AWS Resilient E-Commerce Architecture
 Highly available AWS infrastructure project focused on scalability, resilience, and hybrid cloud concepts.
 
-🔗 https://github.com/riveron88/aws-resilient-ecommerce-tier3
+🔗 https://github.com/alfreriveron/aws-resilient-ecommerce-tier3
 
 ---
 
 ### AWS Serverless Text-to-Speech
 Serverless AWS project using Lambda, Polly, S3, and event-driven architecture concepts.
 
-🔗 https://github.com/riveron88/aws-serverless-text-to-speech
+🔗 https://github.com/alfreriveron/aws-serverless-text-to-speech
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/alfreriveron
